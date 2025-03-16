@@ -39,3 +39,19 @@ Key Tasks:
 * Explore attribute relationships by creating a correlation matrix and visualizing it with a heatmap
 * Further explore attribute relationships using a scatter plot matrix (Seaborn Pairplot)
 * Train and test both a linear regression model and a k-nearest neighbors model through matplotlib
+
+## [The Search for Exoplanets](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/exoplanets)
+
+Exoplanets are planets orbiting stars other than our own. The search for them is done with numerous telescopes of a stagering variety of size throughout the world. This project explores the nature of the planets discovered, the telescopes used to find them, as well as the methods of identifying exoplanets.
+
+See my portfolio page, [Exoplanets & Space Telescopes](https://mattwilliams-ds.github.io/gh-page/exoplanets-and-space-telescopes/) for more info.
+
+Key Technologies:
+* Python
+* matplotlib
+* Regular expressions
+
+Key Tasks:
+* Create data visualizations to describe planet size, distance from Earth, etc.
+* Visualize distribution of exoplanet discoveries by telescope as well as detection method
+* Use regular expressions to search telescope descriptions for their focal lengths (a proxy for the size of the telescope)
