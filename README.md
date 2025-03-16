@@ -21,3 +21,21 @@ Key tasks:
 * Categorize numeric bridge condition ratings as "good", "fair", or "poor" so that the FPGrowth algorithm has text labels to analyze
 * Derive association rules using FPGrowth
 * Review rules to determine which are the most meaningful
+
+## [Predicting Concrete Strength](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/predicting_concrete_strength)
+
+The aim of this project was to develop a model to predict concrete strengths based on their mix indredient concentrations using scikit-learn.
+
+For more information, see the [portfolio page](https://mattwilliams-ds.github.io/gh-page/predicting-concrete-strength/).
+
+Key Technologies:
+* Python
+* Scikit-learn
+* Numpy, Pandas
+* Matplotlib & Seaborn
+
+Key Tasks:
+* Import CSV into a Pandas Dataframe
+* Explore attribute relationships by creating a correlation matrix and visualizing it with a heatmap
+* Further explore attribute relationships using a scatter plot matrix (Seaborn Pairplot)
+* Train and test both a linear regression model and a k-nearest neighbors model through matplotlib
