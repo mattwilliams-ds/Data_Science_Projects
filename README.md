@@ -28,6 +28,14 @@ Key Technologies:
 * SQL
 * FPGrowth Algorithm
 
+## [Comparing Machine Learning Model Performance Predicting Customer Churn](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/customer_churn)
+
+Key Technologies:
+* Python
+* Pandas
+* Scikit-learn
+* Seaborn
+
 ## [Predicting Concrete Strength](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/predicting_concrete_strength)
 
 The aim of this project was to develop a model to predict concrete strengths based on their mix indredient concentrations using scikit-learn.
