@@ -14,6 +14,17 @@ Key Technologies:
 * Scikit-learn linear & Poisson regressions
 * QGIS for creating map visualizations
 
+## [Affect of Concrete Mix Ingredients on Concrete Strength](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/concrete_mix_aging)
+
+Here, a dataset of concrete mixes, their age, and breaking strength are analyzed to determine the effects of the varying concrete mix ingredients on the 28 day concrete strength. Concrete mixes were classified into low, medium, and high strength concretes and then their respective mix ingredient quantities were characterized and analyzed.
+
+Key Technologies:
+* Python
+* Pandas & Numpy
+* Matplotlib
+* Seaborn
+
+For more information, refer to my portfolio page [Effects of Concrete Mix Design & Aging on Strength](https://mattwilliams-ds.github.io/gh-page/effects-of-concrete-mix-design-and-aging-on-strength/).
 
 ## [Patterns in Structurally Deficient Bridges](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/structurally_deficient_bridges)
 
