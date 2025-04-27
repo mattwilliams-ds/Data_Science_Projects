@@ -14,7 +14,7 @@ Key Technologies:
 * Scikit-learn linear & Poisson regressions
 * QGIS for creating map visualizations
 
-## [Affect of Concrete Mix Ingredients on Concrete Strength](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/concrete_mix_aging)
+## [Affects of Concrete Mix Ingredients on Concrete Strength](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/concrete_mix_aging)
 
 Here, a dataset of concrete mixes, their age, and breaking strength are analyzed to determine the effects of the varying concrete mix ingredients on the 28 day concrete strength. Concrete mixes were classified into low, medium, and high strength concretes and then their respective mix ingredient quantities were characterized and analyzed.
 
