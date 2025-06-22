@@ -2,6 +2,18 @@
 
 This repository contains my Data Science projects. These projects were completed on topics that interest me as either personal projects or as part of my master's degree in Data Science.
 
+## [Vehicular Crashes in Longmont, Colorado](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/longmont_accidents)
+
+IN PROGRESS
+
+I got curious about road safety in Longmont, Colorado after getting rear-ended. Using Python and Pandays I cleaned four years worth of accident data from the Colorado Department of Transportation and assembled it into a time series. Prior to 2024, not all accidents had a latitude and longitude, only the cross streets. I geocoded those accidents by the nearest cross streets provided in the dataset to approximate latitude and longitude coordinates for all accidents. Power BI was used to develop a dashboard relaying interesting statistics on accidents from 2021 to 2024.
+
+Key Technologies:
+* Python
+* Pandas
+* Google Maps API
+* Power BI for data visualization
+
 ## [Vulnerability of Coastal Bridges](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/bridge_vulnerability)
 
 In this project, I developed a comprehensive vulnerability scale designed to evaluate U.S. counties based on the susceptibility of their bridge infrastructure to critical factors such as population growth, storm frequency, declining structural condition, and bridge age. By integrating data from these key parameters, the scale assigns a vulnerability score to each county, providing actionable insights into infrastructure resilience. This tool can aid policymakers and planners in prioritizing resources and interventions to ensure the safety and durability of bridges nationwide.
