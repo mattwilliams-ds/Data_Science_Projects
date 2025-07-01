@@ -1,6 +1,6 @@
 This project looks at automotive crashes in Longmont, Colorado from 2021 to 2024. The end product is this crash density map.
 
-[Crash Density Map](Longmont_Crash_Density.png)
+<img src="Longmont_Crash_Density.png" alt="Crash Density Map" width="500"/>
 
 Data for this project was sourced from CDOT. The following tasks were undertaken to complete this project:
 
