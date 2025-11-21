@@ -2,9 +2,18 @@
 
 This repository contains my Data Science projects. These projects were completed on topics that interest me as either personal projects or as part of my master's degree in Data Science.
 
-## [Vehicular Crashes in Longmont, Colorado](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/longmont_accidents)
+## [Grouping Launching Girder Erection Manuals by Span Lengths](https://github.com/mattwilliams-ds/Data_Science_Projects/blob/main/radius_clustering/EM_grouping_v02.ipynb)
 
-IN PROGRESS
+I was tasked with reviewing ereciton manuals for the construction of 415 bridge spans being built with overhead launching girders. In order to optimize our efforts and ensure we deliver our reviews under budget I needed to group similar manuals such that one characteristic manual in the group would be analyzed in depth and the remaning manuals would be compared to the one analyzed.
+
+To do this, I used a radius clustering machine learning algorithm to perform an initial grouping. From there, I used my engineering judgement to further consolidate the groups. The review effort is still ongoing but the grouping has proven to be instrumental to meeting our performance target for this task.
+
+Key Technologies:
+* Python
+* Pandas
+* Radius Clustering 
+
+## [Vehicular Crashes in Longmont, Colorado](https://github.com/mattwilliams-ds/Data_Science_Projects/tree/main/longmont_accidents)
 
 I got curious about road safety in Longmont, Colorado after getting rear-ended. Using Python and Pandays I cleaned four years worth of accident data from the Colorado Department of Transportation and assembled it into a time series. Prior to 2024, not all accidents had a latitude and longitude, only the cross streets. I geocoded those accidents by the nearest cross streets provided in the dataset to approximate latitude and longitude coordinates for all accidents. Power BI was used to develop a dashboard relaying interesting statistics on accidents from 2021 to 2024.
 
